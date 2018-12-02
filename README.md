@@ -1,2 +1,2 @@
 # project-euler
-Practice work on project euler problems to stay sharp.
+Practice work on project euler problems in Python to stay sharp.
